@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/baroncv/static/css/main.a17ea74c.css",
+    "main.js": "/baroncv/static/js/main.f0782812.js",
+    "static/js/787.a71561b8.chunk.js": "/baroncv/static/js/787.a71561b8.chunk.js",
+    "static/media/BrainIcon.svg": "/baroncv/static/media/BrainIcon.3fac553ae45c2457320ffd08eb24d0f8.svg",
+    "static/media/GearIcon.svg": "/baroncv/static/media/GearIcon.dbaa1cd64192ed2e24bdce3842e8d63d.svg",
+    "index.html": "/baroncv/index.html",
+    "main.a17ea74c.css.map": "/baroncv/static/css/main.a17ea74c.css.map",
+    "main.f0782812.js.map": "/baroncv/static/js/main.f0782812.js.map",
+    "787.a71561b8.chunk.js.map": "/baroncv/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a17ea74c.css",
+    "static/js/main.f0782812.js"
+  ]
+}
