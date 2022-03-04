@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+h1,
+h2,
+span,
+p {
+  font-family: Fredoka !important;
+}
