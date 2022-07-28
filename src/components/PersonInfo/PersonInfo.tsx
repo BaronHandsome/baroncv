@@ -10,7 +10,7 @@ export const PersonInfo = () => {
   return (
     <StyledContainer>
       <StyledPersonName>Alexander Shebanov</StyledPersonName>
-      <StyledProfession>Middle React developer</StyledProfession>
+      <StyledProfession>Junior React developer</StyledProfession>
     </StyledContainer>
   );
 };
